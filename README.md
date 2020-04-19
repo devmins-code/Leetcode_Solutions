@@ -1,5 +1,11 @@
 # Leetcode_Solutions
 
+## Categories
+| [Array](https://github.com/devmins-code/Leetcode_Solutions/blob/master/Directory/Array.md) | [String](https://github.com/devmins-code/Leetcode_Solutions/blob/master/Directory/String.md)        
+| ------------- |:-------------:|
+
+
+## All Solutions
 
 | ID            | Title        | Solution  | 
 | ------------- |:-------------:| -----:|
