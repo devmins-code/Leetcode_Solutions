@@ -1,7 +1,7 @@
 # Leetcode_Solutions
 
 ## Categories
-| [Array](https://github.com/devmins-code/Leetcode_Solutions/blob/master/Directory/Array.md) | [String](https://github.com/devmins-code/Leetcode_Solutions/blob/master/Directory/String.md) | [Greedy](https://github.com/devmins-code/Leetcode_Solutions/blob/master/Directory/Greedy.md) | [Greedy](https://github.com/devmins-code/Leetcode_Solutions/blob/master/Directory/Hash_Table.md)       
+| [Array](https://github.com/devmins-code/Leetcode_Solutions/blob/master/Directory/Array.md) | [String](https://github.com/devmins-code/Leetcode_Solutions/blob/master/Directory/String.md) | [Greedy](https://github.com/devmins-code/Leetcode_Solutions/blob/master/Directory/Greedy.md) | [Hash Table](https://github.com/devmins-code/Leetcode_Solutions/blob/master/Directory/Hash_Table.md)       
 | ------------- |:-------------:|:-------------:|:-------------:|
 
 
