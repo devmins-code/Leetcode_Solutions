@@ -1,6 +1,6 @@
-# Leetcode Dynamic Programming Solutions
+# Leetcode Bit Manipulation Solutions
 
 
 | ID            | Title        | Solution  |
 | ------------- |:-------------:| -----:|
-| 70             |Climbing Stairs       | [Python3](https://github.com/devmins-code/Leetcode_Solutions/blob/master/Dynamic_Programming/0070_Climbing_Stairs.py)|
+| 78             | Subsets      | [Python3](https://github.com/devmins-code/Leetcode_Solutions/blob/master/Bit_Manipulation/78_Subsets.py)|

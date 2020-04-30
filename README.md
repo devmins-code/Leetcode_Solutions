@@ -10,6 +10,7 @@
 | ID            | Title        | Solution  | 
 | ------------- |:-------------:| -----:|
 | 1             |Two Sum       | [Python3](https://github.com/devmins-code/Leetcode_Solutions/blob/master/Array/0001_Two_Sum.py)|
+| 53            | Maximum Subarray      | [Python3](https://github.com/devmins-code/Leetcode_Solutions/blob/master/Bit_Manipulation/53_Maximum_Subarray.py)|
 | 70             |Climbing Stairs       | [Python3](https://github.com/devmins-code/Leetcode_Solutions/blob/master/Dynamic_Programming/0070_Climbing_Stairs.py)|
 | 78             | Subsets      | [Python3](https://github.com/devmins-code/Leetcode_Solutions/blob/master/Bit_Manipulation/0078_Subsets.py)|
 | 125            |Valid Palindrome       | [Python3](https://github.com/devmins-code/Leetcode_Solutions/blob/master/String/0125_Valid_Palindrome.py)|
