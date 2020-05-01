@@ -10,12 +10,13 @@
 | ID            | Title        | Solution  | 
 | ------------- |:-------------:| -----:|
 | 1             |Two Sum       | [Python3](https://github.com/devmins-code/Leetcode_Solutions/blob/master/Array/0001_Two_Sum.py)|
-| 53            | Maximum Subarray      | [Python3](https://github.com/devmins-code/Leetcode_Solutions/blob/master/Dynamic_Progamming/53_Maximum_Subarray.py)|
+| 53            | Maximum Subarray      | [Python3](https://github.com/devmins-code/Leetcode_Solutions/blob/master/Dynamic_Programming/0053_Maximum_Subarray.py)|
 | 70             |Climbing Stairs       | [Python3](https://github.com/devmins-code/Leetcode_Solutions/blob/master/Dynamic_Programming/0070_Climbing_Stairs.py)|
 | 78             | Subsets      | [Python3](https://github.com/devmins-code/Leetcode_Solutions/blob/master/Bit_Manipulation/0078_Subsets.py)|
 | 125            |Valid Palindrome       | [Python3](https://github.com/devmins-code/Leetcode_Solutions/blob/master/String/0125_Valid_Palindrome.py)|
 | 202           |Happy Number      | [Python3](https://github.com/devmins-code/Leetcode_Solutions/blob/master/Hash_Table/0202_Happy_Number.py)|
 | 451             |Sort Characters By Frequency      | [Python3](https://github.com/devmins-code/Leetcode_Solutions/blob/master/Hash_Table/0451_Sort_Characters_By_Frequency.py)|
+| 771           |Jewels And Stones      | [Python3](https://github.com/devmins-code/Leetcode_Solutions/blob/master/Hash_Table/0771_Jewels_And_Stones.py)|
 | 942             |DI String Match     | [Python3](https://github.com/devmins-code/Leetcode_Solutions/blob/master/Math/0942_DI_String_Match.py)|
 | 1299            |Replace Elements with Greatest Element on Right Side | [Python3](https://github.com/devmins-code/Leetcode_Solutions/blob/master/Array/1299_Replace_Elements_With_Greatest_Element_On_Right_Side.py)|
 | 1370             |Increasing Decreasing String | [Python3](https://github.com/devmins-code/Leetcode_Solutions/blob/master/String/1370_Increasing_Decreasing_String.py)|
