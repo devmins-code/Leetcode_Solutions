@@ -21,3 +21,4 @@
 | 1299            |Replace Elements with Greatest Element on Right Side | [Python3](https://github.com/devmins-code/Leetcode_Solutions/blob/master/Array/1299_Replace_Elements_With_Greatest_Element_On_Right_Side.py)|
 | 1370             |Increasing Decreasing String | [Python3](https://github.com/devmins-code/Leetcode_Solutions/blob/master/String/1370_Increasing_Decreasing_String.py)|
 | 1400             |Construct K Palindrome Strings      | [Python3](https://github.com/devmins-code/Leetcode_Solutions/blob/master/Greedy/1400_Construct_K_Palindrome_Strings.py)|
+| 1431           |Kids With the Greatest Number of Candies | [Python3](https://github.com/devmins-code/Leetcode_Solutions/blob/master/Array/1431_Kids_With_The_Greatest_Number_Of_Candies.py)|
